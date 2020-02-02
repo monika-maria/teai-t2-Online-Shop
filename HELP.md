@@ -8,6 +8,6 @@ Zaimplementuj sklep internetowy, który oferuje 3 warianty.
 
 
 Odpalanie profili aplikacji:
-I - w application.properties podać start/plus/pro i uruchomić
-II - w edycji konfiguracji obok zielonej strzałki wpisać "-Dspring.profiles.active=TU-PODAC"
-III - przez paczkę jar 1 - "java -jar -/nazwa.jar" 2 - "--spring.profiles.active=TU-PODAC"
+- I - w application.properties podać start/plus/pro i uruchomić
+- II - w edycji konfiguracji obok zielonej strzałki wpisać "-Dspring.profiles.active=TU-PODAC"
+- III - przez paczkę jar 1 - "java -jar -/nazwa.jar" 2 - "--spring.profiles.active=TU-PODAC"
